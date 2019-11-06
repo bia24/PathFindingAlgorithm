@@ -238,10 +238,10 @@ public class Demo : MonoBehaviour {
         {
             if (msg.Equals(""))
             {
-                GUI.Box(new Rect(Screen.width - 300, 0, 140, 70),
+                GUI.Box(new Rect(Screen.width - 300, 0, 200, 70),
                     "Algorithm : " + algorithm.method.ToString()+
                     "\nTime : " + algorithm.GetExcuteTime() +
-                    "\nSearced Vetexs : " + algorithm.GetCountOfVertexsSearched().Count +
+                    "\nSearched Vertexes : " + algorithm.GetCountOfVertexsSearched().Count +
                     "\n Path Length : " + algorithm.GetPathLength()
                      );
             }
