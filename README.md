@@ -36,5 +36,4 @@ The color of cell means?
 * A*    
 ![A*](https://github.com/bia24/PathFindingAlgorithm/blob/master/AStar.png)   
 
-........
-rrrrrrrr
+
