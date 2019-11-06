@@ -25,8 +25,8 @@ The color of cell means?
 *  green : the vertexes (cells) have been searched;  
 *  blue : the final path consists of walkable cells;
 ### Note
-*  each cell can only move in four directions(up,down,left,right) with all same edge wights, just 1;
-*  the priority_queue algorithms used is implemented by binary heap;
-*  the Heuristic function algorithms used is implemented by Hamilton distance;
+*  Each cell can only move in four directions(up,down,left,right) with all same edge wights, just 1;
+*  The priority_queue algorithms used is implemented by binary heap;
+*  The Heuristic function algorithms used is implemented by Hamilton distance;
 
    
