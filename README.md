@@ -28,5 +28,11 @@ The color of cell means?
 *  Each cell can only move in four directions(up,down,left,right) with all same edge wights, just 1;
 *  The priority_queue algorithms used is implemented by binary heap;
 *  The Heuristic function algorithms used is implemented by Hamilton distance;
+### Example
+* Dijkstra    
+![Dijkstra](https://github.com/bia24/PathFindingAlgorithm/blob/master/Dijkstra.png)     
+* BFS   
+![BFS](https://github.com/bia24/PathFindingAlgorithm/blob/master/BFS.png)   
+* A*    
+![A*](https://github.com/bia24/PathFindingAlgorithm/blob/master/AStar.png)   
 
-   
